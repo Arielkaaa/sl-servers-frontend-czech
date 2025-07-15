@@ -180,6 +180,13 @@
     "name": "Brazilian Portuguese",
     "contributors": [
       "Firething"
+  ]
+  },
+  {
+    "code": "cz-CZ",
+    "name": "Czech",
+    "contributors": [
+      "Ariel"
     ]
   }
 ]
